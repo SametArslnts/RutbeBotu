@@ -1,0 +1,14 @@
+{
+  "name": "rutbebotu",
+  "version": "0.0.1",
+  "description": "Samet Arslantas Tarafindan Yapilmistir",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Samet",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
